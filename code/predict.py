@@ -4,7 +4,7 @@ import pickle
 
 def predict(X):
     # Load the model from the saved file
-    with open(str(Path(__file__).parents[1] / 'code/model.pickle'), 'rb') as f:
+    with open(str(Path(__file__).parents[1] / 'model/model.pickle'), 'rb') as f:
         model, one_hot_encoder, scaler = pickle.load(f)
 
     # One Hot Encoding
