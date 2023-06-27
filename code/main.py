@@ -77,5 +77,5 @@ if __name__ == "__main__":
     print(classification_report(y_pred, y_test))
 
     # Save Model
-    with open(str(Path(__file__).parents[1] / 'code/model.pickle'), 'wb') as f:
+    with open(str(Path(__file__).parents[1] / 'model/model.pickle'), 'wb') as f:
         pickle.dump((model, one_hot_encoder, scaler), f)
