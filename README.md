@@ -23,7 +23,7 @@ It contains relevant customer information such as demographics, account activity
 
 ## Website Link
 
-A web-based demonstration of this project can be accessed from [Project Website Link](https://bank-customer-churn-prediction.streamlit.app)
+A web-based demonstration of this project can be accessed [here](https://bank-customer-churn-prediction.streamlit.app)
 
 ## Implementation Details
 
