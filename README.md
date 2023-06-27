@@ -18,7 +18,7 @@
 This project aims to develop a machine learning model to predict bank customer churn. Customer churn, also known as customer attrition, refers to the phenomenon where customers stop doing business with a company or switch to a competitor. By identifying potential churners in advance, banks can take proactive measures to retain valuable customers and minimize revenue loss. This repository provides a comprehensive solution for predicting customer churn using various machine learning algorithms.
 
 ## Data Source
-The dataset used for this project can be obtained from [https://www.kaggle.com/code/saloni1712/churn-smart-banking-predicting-customer-attrition](https://www.kaggle.com/datasets/adammaus/predicting-churn-for-bank-customers). 
+The dataset used for this project can be obtained from - [here](#https://www.kaggle.com/code/saloni1712/churn-smart-banking-predicting-customer-attrition](https://www.kaggle.com/datasets/adammaus/predicting-churn-for-bank-customers). 
 It contains relevant customer information such as demographics, account activity and churn status. 
 
 ## Website Link
